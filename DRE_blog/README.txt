@@ -6,7 +6,7 @@
 4. Gere a imagem PNG do DER
 5. Gere o código SQL do DER
 6. Preencha o Dicionário de dados utilizando o modelo disponível na próxima página (gere um PDF desta página)
-7. Crie uma pasta, salve todos os itens acima e envie para o Github
+7. Crie uma pasta, salve todos os itens acima e envie para o Github.
 
 
 
